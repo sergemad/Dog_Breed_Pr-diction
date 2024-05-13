@@ -16,6 +16,12 @@ from keras.preprocessing import image
 
 classification_pipeline = load_pipeline(config.MODEL_NAME)
 
+
+def generate_prediction_test(data_input):
+    Y_pred = classification_pipeline.predict(data_input)
+    return Y_pred
+
+
 def generate_prediction():
     train_data, Y_data, labels = load_train_dataset(config.LABEL_FILE)
     X_train, X_test, Y_train, Y_test = train_test_split(train_data, Y_data, test_size= 0.1, shuffle=False)
