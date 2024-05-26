@@ -64,3 +64,6 @@ LOSS_FUCTION = 'categorical_crossentropy'
 
 MODEL_METRICS = ['accuracy']
 
+EPOCHS = 10
+
+BATCH_SIZE = 128

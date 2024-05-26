@@ -13,7 +13,7 @@ CLASS_NAMES = ['Scottish Deerhound','Maltese Dog','Bernese Mountain Dog']
 
 #Setting Title of App
 st.title("Dog Breed Prediction")
-st.markdown("Upload an image of the dog")
+st.markdown("Upload an image of a dog between Scottish Deerhound, Maltese Dog and Bernese Mountain Dog")
 
 #Uploading the dog image
 dog_image = st.file_uploader("Choose an image...")
