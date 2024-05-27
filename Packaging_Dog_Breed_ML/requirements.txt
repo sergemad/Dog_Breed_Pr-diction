@@ -78,7 +78,6 @@ numexpr @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_c2
 numpy @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_b7iptlxgej/croot/numpy_and_numpy_base_1708638622773/work/dist/numpy-1.26.4-cp39-cp39-macosx_10_9_x86_64.whl#sha256=dccaeb68b46dfe4f1a77e1233a1ec88f7b588f1891be156d87e60c1078b6ff83
 oauthlib @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_0fpzkx7s0h/croot/oauthlib_1679489634313/work
 opencv-python==4.9.0.80
-opencv-python-headless
 opt-einsum @ file:///tmp/build/80754af9/opt_einsum_1621500238896/work
 packaging @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_2bd6vdlyjt/croot/packaging_1710810554459/work
 pandas @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_aa5q2dmbhr/croot/pandas_1709590498901/work/dist/pandas-2.2.1-cp39-cp39-macosx_10_9_x86_64.whl#sha256=1333091af6eb90a734863452f80e9f5798d64b5b2435770dc6f38dee1378baa2
